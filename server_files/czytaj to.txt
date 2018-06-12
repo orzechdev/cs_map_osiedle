@@ -1,0 +1,20 @@
+Autor: Dawid Tarasiuk
+Mapa osiedla v2.0 do Counter Strike 1.6
+
+1. Skopiuj pliki z folderu "cstrike" do folderu gry w (c:\Gry\CSv48\cstrike\...)*
+2. Skopiuj pliki z folderu "valve" do folderu gry w (c:\Gry\CSv48\valve\...)*
+3. Skopiuj pliki z folderu "maps" do folderu gry w (c:\Gry\CSv48\cstrike\maps\...)
+4. Skopiuj pliki z folderu "env" do folderu gry w (c:\Gry\CSv48\cstrike\gfx\env\...)**
+
+5. W³¹cz CS'a i wczytaj mapê "de_osiedle_zwyciestwa"
+
+_____
+Œcie¿ki do folderów gry mog¹ siê ró¿niæ, w zale¿noœci jak zainstalowa³eœ/³aœ grê.
+* Niektóre pliki mo¿esz ju¿ mieæ, wiêc nie musisz ich kopiowaæ.
+** Te pliki zastêpuj¹ ciemne niebo na jasne. Jeœli chcesz mo¿esz ich nie zmieniaæ. Jeœli ich nie masz to skopiuj.
+
+_____
+Zmiany w stosunku do v1.8:
+- pojazdy
+- wejœcie do budki
+- optymalizacja poprzez zmiany tekstur i obni¿enie nieba
